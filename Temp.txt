@@ -1,0 +1,5 @@
+temp_C=float(input('Enter the temp in Celsius:'))
+Enter the temp in Celsius:
+temp_F=temp_C*9/5+32
+temp_F
+
